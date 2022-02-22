@@ -13,8 +13,8 @@ namespace NobetCizelgesi
     {
 
 
-        private static readonly List<string> _members = new List<string>() { "Abdullah Darçın", "Fatih Özkaya", "Oğuzhan Karakoç", "Muharrem Can Demir", "Mustafa Eraslan","Ehlullah Karakurt" };
-        static DateTime _startDate = new DateTime(2022, 01, 02);
+        private static readonly List<string> _members = new List<string>() { "Abdullah Darçın", "Fatih Özkaya", "Oğuzhan Karakoç", "Muharrem Can Demir", "Mustafa Eraslan","Ehlullah Karakurt","Yusuf Özel" };
+        static DateTime _startDate = new DateTime(2022, 02, 27);
 
         static void Main(string[] args)
         {
